@@ -1,0 +1,8 @@
+* {
+  background-color: aqua;
+}
+
+#submitForm {
+  display: inline-flex;
+  margin-left: 200px;
+}
